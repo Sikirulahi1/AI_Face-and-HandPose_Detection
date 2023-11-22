@@ -7,6 +7,10 @@ This project demonstrates handpose and face mesh detection using the Mediapipe H
   
 ![image](https://github.com/Sikirulahi1/AI_FaceBody-and-HandPose_Detection/assets/104827680/9cddb6b9-7410-4bd9-9b1f-87f295742ce2)
 </center>
+
+![image](https://github.com/Sikirulahi1/AI_FaceBody-and-HandPose_Detection/assets/104827680/1d829107-de2c-44a9-b0a6-a40c0c4e1db3)
+
+
 <center>
   
 ![image](https://github.com/Sikirulahi1/AI_FaceBody-and-HandPose_Detection/assets/104827680/9602a25b-a750-4ead-b356-f39ad5c63caa)
