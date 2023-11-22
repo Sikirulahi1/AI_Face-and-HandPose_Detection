@@ -3,9 +3,8 @@
 This project demonstrates handpose and face mesh detection using the Mediapipe Holistic library. The application captures video from the webcam, processes it using the Holistic model, and visualizes the detected landmarks for face, hands, and body pose in real-time.
 
 ---
-<center>
+
 ![image](https://github.com/Sikirulahi1/AI_FaceBody-and-HandPose_Detection/assets/104827680/9cddb6b9-7410-4bd9-9b1f-87f295742ce2)
-</center>
 
 ---
 
